@@ -1,0 +1,7 @@
+[![make.fun · u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9?utm_source=makefun&utm_medium=badge&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
+[![rank](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/Ikball53/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
+[![reward](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/Ikball53/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9?utm_source=makefun&utm_medium=badge&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
+
+# The Meeting That Should Have Been an Email
+
+A single-line joke that turns the complaint back on itself: the meeting could have been an email, but then the email would have needed a meeting to explain why it wasn't a meeting. `main.py` writes exactly that line to `entry.txt`, with no trailing newline.
